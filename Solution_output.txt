@@ -1,0 +1,2 @@
+> source('~/R projects/test.R')
+The solution to this system of equations is x = -0.52, y = -8.28 and z = -4.48
